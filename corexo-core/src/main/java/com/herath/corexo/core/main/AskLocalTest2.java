@@ -33,7 +33,7 @@ public class AskLocalTest2 {
 
 		ExecutorService producerExecutorService = Executors.newFixedThreadPool(20);
 		
-		int max = 1000000;
+		int max = 2000000;
 		
 		//producer's workers to pick form queue and add to map
 		/*for (int i = 0; i < max; i++) {
