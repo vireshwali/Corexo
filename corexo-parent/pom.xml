@@ -78,5 +78,6 @@
 	<modules>
 		<module>../corexo-core</module>
 		<module>../corexo-workers</module>
+		<module>../corexo-pocs</module>
 	</modules>
 </project>
