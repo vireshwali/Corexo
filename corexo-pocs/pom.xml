@@ -5,6 +5,7 @@
 		<groupId>com.herath.corexo</groupId>
 		<artifactId>corexo-parent</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
+		<relativePath>../corexo-parent</relativePath>
 	</parent>
 	<artifactId>corexo-pocs</artifactId>
 	<name>Corexo POCs project</name>
