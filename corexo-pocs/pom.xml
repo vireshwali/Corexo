@@ -8,7 +8,7 @@
 		<relativePath>../corexo-parent</relativePath>
 	</parent>
 	<artifactId>corexo-pocs</artifactId>
-	<name>Corexo POCs project</name>
+	<name>Corexo POCs</name>
 	<description>Not Distributable Code</description>
 	<dependencies>
 		<dependency>
